@@ -1,5 +1,8 @@
 Archivo de ejemplo 1
 
+Colaborador 1:
+modificación concurrente.
+
 Lorem ipsum dolor sit amet,
 consectetur adipiscing elit,
 Modificación del archivo por colaborador 1.
