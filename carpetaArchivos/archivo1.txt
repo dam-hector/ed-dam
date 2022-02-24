@@ -2,5 +2,6 @@ Archivo de ejemplo 1
 
 Lorem ipsum dolor sit amet,
 consectetur adipiscing elit,
+Modificación del archivo por colaborador 1.
 sed do eiusmod tempor incididunt
 ut labore et dolore magna aliqua.
